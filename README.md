@@ -2,7 +2,9 @@
 ## Project information
 
 Author: Cem Kupeli
+
 Dates worked on: March - April 2021
+
 Purpose: Display the performance of different Travelling Salesperson Problem algorithms on a graph with a variable number of nodes
 
 ## Summary
